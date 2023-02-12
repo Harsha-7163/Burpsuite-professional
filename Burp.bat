@@ -1,0 +1,1 @@
+java --add-opens=java.desktop/javax.swing=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED -javaagent:"C:\Users\harsh\Desktop\Burp-Suite-main\loader.jar" -noverify -jar "C:\Users\harsh\Desktop\Burp-Suite-main\Burp-Suite-Pro.jar"
